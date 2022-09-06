@@ -7,7 +7,7 @@ const UserProfile = () => {
       <React.Fragment>
             <Profile />;
             <About />;
-        </React.Fragment>
+      </React.Fragment>
     )
 }
 
